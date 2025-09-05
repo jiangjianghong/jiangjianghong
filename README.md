@@ -18,8 +18,8 @@
 ---
 <div align="center">
 <!-- 访客计数器 -->
-<img src="https://komarev.com/ghpvc/?username=jiangjianghong&style=for-the-badge&color=ff6b6b&label=Profile+Views" alt="访客计数" />
-<img src="https://img.shields.io/github/followers/jiangjianghong?style=for-the-badge&color=orange&label=Followers"/>
+<img src="https://komarev.com/ghpvc/?username=jiangjianghong&style=for-the-badge&color=00CED1&label=Profile+Views" alt="访客计数" />
+<img src="https://img.shields.io/github/followers/jiangjianghong?style=for-the-badge&color=00CED1&label=Followers"/>
 <br><br>
 <!-- 酷炫的个人简介 -->
 <div>
