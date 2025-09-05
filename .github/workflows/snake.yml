@@ -21,13 +21,12 @@ jobs:
     steps:
       # 生成蛇蛇动画
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: jiangjianghong
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8cc8ff,#64a1f4,#4c7a9f,#1e456e
             
       # 推送到output分支
       - name: Push to output branch
