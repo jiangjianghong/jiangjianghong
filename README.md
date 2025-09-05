@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=800&height=100&lines=👋+嗨，我是+JiangJiang!;💫+努力成为一名合格的算法工程师;" alt="动态标题" />
 
 <!-- 酷炫的个人介绍横幅 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=欢迎来到我的数字世界&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=欢迎来到我的主页&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- 访客计数器 -->
 <img src="https://komarev.com/ghpvc/?username=jiangjianghong&style=for-the-badge&color=ff6b6b&label=Profile+Views" alt="访客计数" />
