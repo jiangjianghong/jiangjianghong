@@ -12,10 +12,10 @@
 
 ---
 # 这里是 JiangJiang 的个人主页 🎉
-## 欢迎来到我的主页  😊
-## 努力成为一名合格的算法工程师 🚀
+ 欢迎来到我的主页  😊
+ 努力成为一名合格的算法工程师 🚀
 
----
+
 <div align="center">
 <!-- 访客计数器 -->
 <img src="https://komarev.com/ghpvc/?username=jiangjianghong&style=for-the-badge&color=00CED1&label=Profile+Views" alt="访客计数" />
@@ -26,18 +26,15 @@
   
 
 
----
-
 ## 🔥 GitHub 统计数据
 
 <div align="center">
 
 <!-- 贡献图 3D -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiangjianghong&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFF" width="100%" alt="贡献活动图"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiangjianghong&theme=github-compact&hide_border=true&bg_color=FFFFFF&color=00CED1&line=00CED1&point=006994" width="100%" alt="贡献活动图"/>
 
 </div>
 
----
 
 <div align="center">
 
